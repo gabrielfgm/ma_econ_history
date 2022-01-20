@@ -3,45 +3,29 @@ title: "Week 1: Introduction to Britain and the World Economy, 1850-1914"
 author: | 
     | Dr. Gabriel Geisler Mesevage 
     | gabriel.mesevage@kcl.ac.uk
-    | Office Hours: Wed. 10-11am & Thurs. 2-3pm
-date: "13 January 2020"
+    | Office Hours: Tues. 11am (office) Weds. 11am (Online)
+date: "Last update: `r format(Sys.time(), '%d %B, %Y')`"
 output: 
   xaringan::moon_reader:
     nature:
-      beforeInit: "macros.js"
+      beforeInit: "helper_functions/macros.js"
+      ratio: '16:9'
     lib_dir: libs
-    css: xaringan-themer.css
+    css: ["xaringan-themer.css", "helper_functions/extra.css"]
 ---
 
-<style type="text/css">
-.white { color: white; }
-.large { font-size: 130% }
-.small { font-size: 70% }
-.pull-right40{ 
-  float: right;
-  width: 40%;}
-.pull-left60{
-  float: left;
-  width: 60%;
-}
-.scale120{
-  float: left;
-  width: 120%;
-}
-.scale80{
-  float: right;
-  width: 80%
-}
-</style>
-
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE,
+                      message = FALSE, fig.align='center', fig.retina=3,
+                      out.width="75%")
 ```
-
 
 ```{r xaringan-themer, include = FALSE}
 library(xaringanthemer)
-solarized_light()
+style_solarized_light()
+source("helper_functions/theme_lecture.R")
+xaringanExtra::use_webcam()
+xaringanExtra::use_tile_view()
 ```
 
 ## Today's Plan
@@ -77,16 +61,16 @@ I'm really interested in understanding asset price bubbles in history, how peopl
 ## Assessment
 
 .large[
-+ 1 $\times$ 4,000 word essay **due 23 Apr 2020 - 16:00!!**
++ 1 $\times$ 4,000 word essay **due 26 Apr 2022 - 16:00!!**
     - KCL is *unrelenting* about deadlines -- must be submitted by 15:59:59 on the day!
     - I have no power to grant extensions
-    - If you need an extension write to [history@kcl.ac.uk](history@kcl.ac.uk)
+    - If you need an extension write to your tutor about an MCF (mitigating circumstances form)
 ]
 
 --
 
 .large[
-+ For essay **you will come up with a question**
++ For the essay **you will come up with a question**
     - Come discuss your question with me
     - Must be related to course (obviously) but can be interpreted broadly
 + In weeks 6-10 we will set aside class time for each of you to discuss your essay question/approach and get feedback (not graded)
@@ -96,19 +80,20 @@ I'm really interested in understanding asset price bubbles in history, how peopl
 
 # Mechanics: Submitting assignments
 
-![fig](submission.gif)
-
+.center[
+![:scale 70%](figures/submission.gif)
+]
 ---
 
 # Mechanics: Readings
 
-[https://keats.kcl.ac.uk/course/view.php?id=63233](https://keats.kcl.ac.uk/course/view.php?id=63233)
+[https://keats.kcl.ac.uk/course/view.php?id=63233](https://keats.kcl.ac.uk/course/view.php?id=90978)
 
 ---
 
 # Britain in 1850
 
-![cp](christalpalace.jpg)
+![cp](figures/christalpalace.jpg)
 
 ---
 
@@ -132,7 +117,7 @@ I'm really interested in understanding asset price bubbles in history, how peopl
 
 # More Industrial
 
-```{r, comparative_industrialization, out.width='100%', fig.height=4, fig.width=6, fig.retina=4}
+```{r, comparative_industrialization, out.width='70%', fig.height=4, fig.width=6, fig.retina=4}
 library(tidyverse)
 library(ggrepel)
 library(viridis)
@@ -163,9 +148,8 @@ eu_ind %>%
   scale_color_viridis_d(option = "plasma", direction = -1) +
   xlab("") + ylab("Industrialization Index") +
   ggtitle("British Industrialization in European Perspective",
-          subtitle = "Source: Bairoch 1994.")+
-  theme(panel.background = element_rect(fill = "#fdf6e3"),
-        plot.background = element_rect(fill = "#fdf6e3"))
+          subtitle = "Source: Bairoch 1994.") +
+  theme_lecture
 
 ```
 
@@ -173,7 +157,7 @@ eu_ind %>%
 
 # Less agricultural 
 
-```{r, ag_share, out.width='100%', fig.height=4, fig.width=6, fig.retina=4}
+```{r, ag_share, out.width='70%', fig.height=4, fig.width=6, fig.retina=4}
 library(ggalt)
 ag_share <- tibble(year = c(1780, 1820, 1870, 1913),
                    ag_share = c(45, 35, 22.7, 11.8))
@@ -188,18 +172,17 @@ ag_share %>%
   ggtitle("The Falling Share of Agricultural Employment in England, 1780-1913", 
           subtitle = "Source: Crafts 1998, pp. 195") +
   theme_minimal() +
-  theme(panel.background = element_rect(fill = "#fdf6e3"),
-        plot.background = element_rect(fill = "#fdf6e3"))
+  theme_lecture
   
 ```
 
 ---
 
-```{r gdp_pc, out.width='100%', fig.height=4, fig.width=6, fig.retina=4}
+```{r gdp_pc, out.width='80%', fig.height=4, fig.width=7, fig.retina=4}
 library(tidyverse)
 library(readxl)
 
-real_gdp_eng <- read_xlsx(path = "~/Dropbox/teaching/brit_eh_1700_1940/lectures/week01/a-millennium-of-macroeconomic-data-for-the-uk.xlsx", 
+real_gdp_eng <- read_xlsx(path = "~/Dropbox/teaching/beh-slides/data/a-millennium-of-macroeconomic-data-for-the-uk.xlsx", 
                       sheet = "A21. GDP per capita 1086+", 
                       range = "A5:K859")
 
@@ -215,14 +198,13 @@ real_gdp_eng %>%
           subtitle = "Source: Broadberry et. al. (2015) & Bank of England") +
   ylab("Real GDP per capita") + 
   tidyquant::theme_tq() +
-  theme(panel.background = element_rect(fill = "#fdf6e3"),
-        plot.background = element_rect(fill = "#fdf6e3"))
+  theme_lecture
 
 ```
 
 ---
 
-```{r gdp_pc_ir, out.width='100%', fig.height=4, fig.width=6, fig.retina=4}
+```{r gdp_pc_ir, out.width='80%', fig.height=4, fig.width=7, fig.retina=4}
 
 real_gdp_eng %>% 
   filter(Year > 1270) %>% 
@@ -239,17 +221,16 @@ real_gdp_eng %>%
   annotate("text", x=1670, y=5500, 
            label="What this course covers", color="coral") +
   tidyquant::theme_tq() +
-  theme(panel.background = element_rect(fill = "#fdf6e3"),
-        plot.background = element_rect(fill = "#fdf6e3"))
+  theme_lecture
 
 ```
 
 ---
 
-```{r, comparative_perspective, out.width='100%', fig.height=4, fig.width=6, fig.retina=4}
+```{r, comparative_perspective, out.width='80%', fig.height=4, fig.width=6, fig.retina=4}
 library(ggrepel)
 
-maddison <- read_xlsx(path = "~/Dropbox/teaching/brit_eh_1700_1940/lectures/week01/mpd2018.xlsx", 
+maddison <- read_xlsx(path = "~/Dropbox/teaching/beh-slides/data/mpd2018.xlsx", 
                       sheet = "Full data")
 
 plotdf <- maddison %>% filter(year <= 1851, 
@@ -278,14 +259,13 @@ plotdf %>%
   guides(color = FALSE) +
   scale_color_brewer(type = "qual", palette = 2) +
   tidyquant::theme_tq() +
-  theme(panel.background = element_rect(fill = "#fdf6e3"),
-        plot.background = element_rect(fill = "#fdf6e3"))
+  theme_lecture
 
 ```
 
 ---
 
-```{r, climacteric, out.width='100%', fig.height=4, fig.width=6, fig.retina=4}
+```{r, climacteric, out.width='80%', fig.height=4, fig.width=6, fig.retina=4}
 
 plotdf <- maddison %>% filter(year >= 1800, 
                     year <= 1940, 
@@ -309,8 +289,7 @@ plotdf %>%
   guides(color = FALSE) +
   scale_color_brewer(type = "qual", palette = 2) +
   tidyquant::theme_tq() +
-  theme(panel.background = element_rect(fill = "#fdf6e3"),
-        plot.background = element_rect(fill = "#fdf6e3"))
+  theme_lecture
 
 ```
 
@@ -329,15 +308,21 @@ plotdf %>%
 
 ### Globalization and Deglobalization in Historical Perspective
 
-![orourke](orourke.png)
+.center[
+![:scale 60%](figures/orourke.png)
+]
 <br>
-![daunton](daunton.png)
+.center[
+![:scale 60%](figures/daunton.png)
+]
+
 ---
 
 ## The first economic globalization?
 
 .large[
 + In quantitative terms first period of intense economic integration
+  - Per some specific criteria
 + Unrestricted capital movement
 + Largely unrestricted population movements
 + Major liberalization of trade
@@ -373,7 +358,10 @@ plotdf %>%
     + The 'inconsistent quartet' with trade 
     + Expanded to 'incompatible quintet' with migration/labor market 
 
-![tab](Screenshot 2020-01-14 at 14.58.21.png)
+.center[
+![:scale 60%](figures/Screenshot 2020-01-14 at 14.58.21.png)
+]
+
 ---
 
 ## The consequences of economic globalization?
