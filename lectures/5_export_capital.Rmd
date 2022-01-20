@@ -1,0 +1,83 @@
+---
+title: "Week 5: Export of capital: reading the sources" 
+author: | 
+    | Dr. Gabriel Geisler Mesevage 
+    | gabriel.mesevage@kcl.ac.uk
+    | Office Hours: Wed. 10-11am & Thurs. 2-3pm
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  xaringan::moon_reader:
+    nature:
+      beforeInit: "macros.js"
+    lib_dir: libs
+    css: xaringan-themer.css
+
+---
+
+<style type="text/css">
+.white { color: white; }
+.large { font-size: 130% }
+.small { font-size: 70% }
+.pull-right40{ 
+  float: right;
+  width: 40%;}
+.pull-left60{
+  float: left;
+  width: 60%;
+}
+.scale120{
+  float: left;
+  width: 120%;
+}
+.scale80{
+  float: right;
+  width: 80%
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+
+```{r xaringan-themer, include = FALSE}
+library(xaringanthemer)
+solarized_light()
+source("~/Dropbox/teaching/lecture_ggplot2_theme.R")
+```
+
+
+#### How to read a share price list
+
+![:scale 90%](read_prices.png)
+
++ **Stock**, e.g. "Guatemala 6% Sterling": Guatemalan sovereign debt pays 6% interest in sterling on nominal value
++ **Issue price**: when they created the loan what it sold for
++ **Original issue**: nominal value of debt (what is owed)
++ **Sinking fund**: is there a special fund for repayment? 
++ **Amount of loan unredeemed**: if paid back gradually how much left?
++ **Par**: nominal value of stock i.e. how much will you get paid back per stock you own. 
++ **Prices of the month**: what has the stock been trading for? E.g. Guatemala is not being traded this month
++ **Last Business Done**: last trade price. Guatemala 6% at 42 -- very low!
++ **Dividends**: where and when you can collect the interest
++ How to compute bond yield: $dividend/price = (.06 \times 100)/42 = 6/42 = .143 = 14.3\%$
+
+---
+
+class: inverse, center, middle
+
+## Framing Question
+
+> How did the Victorian investment portfolio change over the last quarter of the 19th century?
+
+### Things to think about
+
+> What are the limits of the source for studying British investment?
+
+<br>
+
+> Who is the source addressed to? How does that constrain what it reports?
+
+<br>
+
+> What is the process by which investments appear on this list?

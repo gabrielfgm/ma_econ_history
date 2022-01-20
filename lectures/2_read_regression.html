@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+  <head>
+    <title>Week 2: How to read a regression table in a social science paper</title>
+    <meta charset="utf-8" />
+    <meta name="date" content="2020-01-21" />
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Week 2: How to read a regression table in a social science paper
+### <div class="line-block">Dr. Gabriel Geisler Mesevage<br />
+<a href="mailto:gabriel.mesevage@kcl.ac.uk" class="email">gabriel.mesevage@kcl.ac.uk</a><br />
+Office Hours: Wed. 10-11am &amp; Thurs. 2-3pm</div>
+### 21 January 2020
+
+---
+
+
+&lt;style type="text/css"&gt;
+.white { color: white; }
+.large { font-size: 130% }
+.small { font-size: 70% }
+.pull-right40{ 
+  float: right;
+  width: 40%;}
+.pull-left60{
+  float: left;
+  width: 60%;
+}
+.scale120{
+  float: left;
+  width: 120%;
+}
+.scale80{
+  float: right;
+  width: 80%
+}
+&lt;/style&gt;
+
+
+
+
+
+
+## What you will see
+
+![:scale 80%](reg_examp.png)
+
+---
+
+## The equation behind the table
+
+.center[
+`\(\texttt{gdp_growth_pc}_i = \alpha + \beta_1 log(\texttt{initial_income}_i) + \\ \; \beta_2 \texttt{growth_capital_stock}_i + \beta_3 \texttt{growth_land_pc}_i + \\ \; \beta_4 log(\texttt{agric_tariff}_i + 1) + \beta_5 log(\texttt{manuf_tariff}_i + 1) + \\ \; \beta_6 log(\texttt{exotic_tariff}_i + 1) + \epsilon_i\)`
+]
+
+***
+
++ `\(\alpha\)` and the `\(\beta\)`'s are **parameters**: they are estimated from the data
++ The numbers in the table are the **parameters** associated with each **variable**
+    - E.g. `\(\beta_1 = -6.0603\)` is the parameter for `\(\texttt{initial_income}\)`
++ `\(\epsilon_i\)` is the **error**:
+    - The difference between what the model suggests and the data
+    - We do not observe the true `\(\epsilon_i\)`
+    - We *do* observe how the model differs from the data: we call these observations `\(\hat{\epsilon}\)` where the hat denotes an estimate 
+    
+### Let's start with a simple example
+
+---
+
+## Simple example
+
+&lt;img src="2_read_regression_files/figure-html/reg_manual-1.png" width="100%" /&gt;
+
+#### Interpretation: Linear Conditional Expectation
+
+- The line that makes the best guess at average `\(y\)` given `\(x\)`
+
+---
+
+## A simple regression
+
+
+&lt;table style="text-align:center"&gt;&lt;caption&gt;&lt;strong&gt;Example Regression Table&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr&gt;&lt;td colspan="2" style="border-bottom: 1px solid black"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align:left"&gt;&lt;/td&gt;&lt;td&gt;&lt;em&gt;Dependent variable:&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td colspan="1" style="border-bottom: 1px solid black"&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="text-align:left"&gt;&lt;/td&gt;&lt;td&gt;y&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2" style="border-bottom: 1px solid black"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align:left"&gt;x&lt;/td&gt;&lt;td&gt;1.527&lt;sup&gt;***&lt;/sup&gt; (0.088)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="text-align:left"&gt;Constant&lt;/td&gt;&lt;td&gt;39.912&lt;sup&gt;***&lt;/sup&gt; (0.091)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2" style="border-bottom: 1px solid black"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align:left"&gt;Observations&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="text-align:left"&gt;Adjusted R&lt;sup&gt;2&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;0.753&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2" style="border-bottom: 1px solid black"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align:left"&gt;&lt;em&gt;Note:&lt;/em&gt;&lt;/td&gt;&lt;td style="text-align:right"&gt;&lt;sup&gt;*&lt;/sup&gt;p&lt;0.1; &lt;sup&gt;**&lt;/sup&gt;p&lt;0.05; &lt;sup&gt;***&lt;/sup&gt;p&lt;0.01&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
++ **Standard errors** are in parantheses
++ A **statistically significant** coefficient means the **slope is non-zero**
+    - The stars by `\(x\)` indicate statistical significance
+    - The stars by `\(Constant\)` indicate that the intercept is far from zero
+
+---
+
+## Statistical significance
+
++ We estimated the coefficient on `\(\beta_1 = 1.527\)`
++ We estimated its standard error to be `\(se_1 = .088\)`
+    - This means we think on **average** the coefficient will be `\(1.527\)` with a variance of `\(se_1^2 = .088^2 = .007744\)`
++ The mean and average imply a distribution for the coefficient -- is it far from zero?
+    - Rule of thumb: multiply the standard-error by 2 and add/subtract from coefficient for 95% confidence interval
+    
+&lt;img src="2_read_regression_files/figure-html/hist_beta-1.png" width="100%" /&gt;
+
+
+---
+
+## Assumptions: the relationship is linear
+
+&lt;img src="2_read_regression_files/figure-html/reg_manual_nl-1.png" width="100%" /&gt;
+
++ Here the true model is `\(y = \alpha + \beta x^2 + \epsilon\)` 
+    - With two variables plotting your data should usually let you fix a problem like this
+
+---
+
+## What happens with more variables?
+
+&lt;img src="2_read_regression_files/figure-html/reg_manual_ovb-1.png" width="100%" /&gt;
+
+---
+
+
+&lt;table style="text-align:center"&gt;&lt;caption&gt;&lt;strong&gt;Omitted Variable Bias in Action&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr&gt;&lt;td colspan="3" style="border-bottom: 1px solid black"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align:left"&gt;&lt;/td&gt;&lt;td colspan="2"&gt;&lt;em&gt;Dependent variable:&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td colspan="2" style="border-bottom: 1px solid black"&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="text-align:left"&gt;&lt;/td&gt;&lt;td colspan="2"&gt;y&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="text-align:left"&gt;&lt;/td&gt;&lt;td&gt;(1)&lt;/td&gt;&lt;td&gt;(2)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="3" style="border-bottom: 1px solid black"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align:left"&gt;x&lt;/td&gt;&lt;td&gt;1.045&lt;sup&gt;***&lt;/sup&gt; (0.309)&lt;/td&gt;&lt;td&gt;-0.984&lt;sup&gt;***&lt;/sup&gt; (0.170)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="text-align:left"&gt;z&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;50.174&lt;sup&gt;***&lt;/sup&gt; (1.002)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="text-align:left"&gt;Constant&lt;/td&gt;&lt;td&gt;63.647&lt;sup&gt;***&lt;/sup&gt; (0.922)&lt;/td&gt;&lt;td&gt;39.452&lt;sup&gt;***&lt;/sup&gt; (0.689)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="3" style="border-bottom: 1px solid black"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align:left"&gt;Observations&lt;/td&gt;&lt;td&gt;1,000&lt;/td&gt;&lt;td&gt;1,000&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="text-align:left"&gt;R&lt;sup&gt;2&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;0.011&lt;/td&gt;&lt;td&gt;0.719&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="3" style="border-bottom: 1px solid black"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align:left"&gt;&lt;em&gt;Note:&lt;/em&gt;&lt;/td&gt;&lt;td colspan="2" style="text-align:right"&gt;&lt;sup&gt;*&lt;/sup&gt;p&lt;0.1; &lt;sup&gt;**&lt;/sup&gt;p&lt;0.05; &lt;sup&gt;***&lt;/sup&gt;p&lt;0.01&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
++ The value a parameter takes depends on the other variables in the model
+    - We call this **omitted variable bias**
+    - Why you **should not** interpret regressions as **causal relations**
+    - Intuition: `\(z\)` is large whenever `\(x\)` is large. If you look only at `\(y\)` and `\(x\)` the effect of `\(x\)` combines the effects of `\(x\)` and `\(z\)`
++ Why does randomization produce **causal estimates**?
++ `\(R^2\)`: a measure of how much of the variation in `\(y\)` the model explains
+---
+
+## Questions to think about when reading a regression
+
++ Did the authors omit variables that could change the relationship and should be included?
+    - The constant concern of any statistical argument
++ Is the model appropriate?
++ Is the relationship of a meaningful magnitude?
+
+---
+
+## Resources
+
+[Morgan, Stephen L., and Christopher Winship. Counterfactuals and Causal Inference : Methods and Principles for Social Research, Cambridge University Press, 2007](https://ebookcentral.proquest.com/lib/kcl/detail.action?docID=321107): This is an introductory graduate level text frequently used in sociology and political science. It focuses on causal inference from data analysis.
+
+Jeffrey Wooldridge, *Introductory Econometrics: A Modern Approach*, is what is often used with economics undergrads (no digital copy in the library unfortunately).
+
+Joshua D. Angrist &amp; Jorn-Steffen Pischke, *Mostly Harmless Econometrics: An Empiricist's Companion*, is a popular graduate-level treatment for economists that surveys common approaches.
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script src="macros.js"></script>
+<script>var slideshow = remark.create();
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();</script>
+
+<script>
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

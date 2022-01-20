@@ -1,0 +1,88 @@
+---
+title: "The Great Specialization: World Trade in the 19th C." 
+author: | 
+    | Dr. Gabriel Geisler Mesevage 
+    | gabriel.mesevage@kcl.ac.uk
+    | Office Hours: Wed. 10-11am & Thurs. 2-3pm
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  xaringan::moon_reader:
+    nature:
+      beforeInit: "macros.js"
+    lib_dir: libs
+    css: xaringan-themer.css
+---
+
+<style type="text/css">
+.white { color: white; }
+.large { font-size: 130% }
+.small { font-size: 70% }
+.pull-right40{ 
+  float: right;
+  width: 40%;}
+.pull-left60{
+  float: left;
+  width: 60%;
+}
+.scale120{
+  float: left;
+  width: 120%;
+}
+.scale80{
+  float: right;
+  width: 80%
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+
+```{r xaringan-themer, include = FALSE}
+library(xaringanthemer)
+solarized_light()
+source("~/Dropbox/teaching/lecture_ggplot2_theme.R")
+```
+
+
+### Global grain market integration
+
+![:scale 90%](anglo_us_wheat.png)
+
+---
+
+```{r wage_rent_ratios, fig.align='center',fig.retina=3, out.width="100%", fig.width=6, fig.height=4.5}
+library(tidyverse)
+library(readxl)
+library(ggrepel)
+
+wr <- read_xlsx("wage_rent_ratios.xlsx")
+
+wr <- wr %>% gather("Country", "Index", - Year) %>% 
+  mutate(Continent = ifelse(Country %in% c("Australia", "US"), 
+                            "New World", "Old World"),
+         Policy = ifelse(Country %in% c("France", "Germany"),
+                                 "Protectionist", "Open"))
+
+wr %>% 
+  ggplot(aes(Year, Index, 
+             group = Country, 
+             color = Continent, linetype = Policy)) +
+  geom_line() + 
+  geom_point()+
+  theme_hc() +
+  scale_color_hc() +
+  guides(color = FALSE) +
+  geom_label_repel(data = wr %>% filter(Year==1912),
+             aes(Year, Index, color=Continent, 
+                 label = Country)) +
+  xlim(c(1875, 1915)) +
+  theme(panel.background = element_rect(fill = "#fdf6e3"),
+        plot.background = element_rect(fill = "#fdf6e3"))  +
+  ggtitle("Evidence of Convergence in Wage-Rental Ratios?", 
+          subtitle = "1877 to 1912") +
+  theme_lecture
+
+```
+#### Source: O'Rourke, "European Grain Invasion, 1870-1914", Table 5
