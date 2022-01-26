@@ -10,29 +10,6 @@
     since 1850: I. Creating a Global Order, 1850-1914", *Transactions of
     the Royal Historical Society*, Vol. 16, 2006.
 
-```{=html}
-<!-- ## 2. Economic history and history
-
-#### Required
-
-+ [Naomi Lamoreaux, "Beyond the Old and the New: Economic History in the United States" in Boldizzoni and Hudson (eds.) *The Routledge Handbook of Global Economic History*, 2016](https://economics.yale.edu/sites/default/files/files/Faculty/Lamoreaux/beyond-old-2015.pdf)
-+ [Caitlin Rosenthal, "Seeking a Quantitative Middle Ground: Reflections on Methods and Opportunities in Economic History", *Journal of the Early Republic*, 36, Winter 2016](https://muse.jhu.edu/article/643507)
-+ [Kenneth Lipartito, 'Reassembling the Economic: New Departures in Historical Materialism', *The American Historical Review*, Volume 121, Issue 1, February 2016, Pages 101–139,](https://doi.org/10.1093/ahr/121.1.101)
-
-#### Additional
-
-+ Carlo M. Cipolla, *Between Two Cultures: An Introduction to Economic History*, 1988
-+ Francesco Boldizzoni, *The Poverty of Clio: Resurrecting Economic History*, PUP: 2011
-+ [Eric Hilt, "Economic History, Historical Analysis, and the 'New History of Capitalism'". *The Journal of Economic History*, 77(2), 2017, 511-536.](https://doi:10.1017/S002205071700016X)
-+ [Eichengreen, Barry. "Financial History, Historical Analysis, and the New History of Finance Capital." Capitalism: A Journal of History and Economics, vol. 1 no. 1, 2019, p. 20-58.](https://doi:10.1353/cap.2019.0003)
-+ Herman van der Wee (2007), ‘Economic history: Its past, present and future’, *European Review*, Vol. 15, No. 1, pp. 33-45.
-+ Adam Tooze (2008), ‘Trouble with numbers: Statistics, politics and history in the construction of Weimar’s trade balance, 1918-1924’, *The American Historical Review*, Vol. 113, No. 3, pp. 678-700.
-+ Randall Morck & Bernard Yeung (2011), ‘Economics, history, and causation’, *Business History Review*, Vol. 85, No. 1, pp. 39-63.
-
-#### Slides
-
-+ [How to read a regression](https://keats.kcl.ac.uk/pluginfile.php/4697108/mod_resource/content/0/pdf_2_read_regression.pdf) -->
-```
 ## 2. Opening up to trade: the Corn Laws
 
 #### Required
@@ -378,21 +355,6 @@
     The Journal of Economic History, 50(4),
     789-805.](https://doi:10.1017/S0022050700037827)
 
-```{=html}
-<!-- ## 9. Migration, globalization, and labor
-
-#### Required
-
-#### Additional
-
-+ [Boyer, G. (2004). Living standards, 1860–1939. In R. Floud & P. Johnson (Eds.), The Cambridge Economic History of Modern Britain (pp. 280-313). Cambridge: Cambridge University Press.](https://doi.org/10.1017/CHOL9780521820370.012)
-+ [Hatton, T. (2004). Unemployment and the labour market, 1870–1939. In R. Floud & P. Johnson (Eds.), The Cambridge Economic History of Modern Britain (pp. 344-373). Cambridge: Cambridge University Press.]( https://doi.org/10.1017/CHOL9780521820370.014) 
-+ George Boyer, *The Winding Road to the Welfare State: Economic Insecurity and Social Welfare Policy in Britain*, PUP: 2019, chapters 6 & 7.
-+ [Huberman, Michael. *Odd Couple: International Trade and Labor Standards in History*. New Haven, CT: Yale University Press, 2012.](https://ebookcentral.proquest.com/lib/kcl/detail.action?docID=3420813)
-+ Huberman, Michael, and Christopher M. Meissner. “Riding the Wave of Trade: The Rise of Labor Regulation in the Golden Age of Globalization.” Journal of Economic History 70, no. 3 (2010): 657–85.
-+ [Timothy Hatton and Jeffrey Williamson, *The Age of Mass Migration: Causes and Economic Impact*, OUP: 1998](https://ebookcentral.proquest.com/lib/kcl/detail.action?docID=272794)
-+ [Leah Boustan, Ran Abramitzky, "Immigration in American Economic History," *Journal of Economic Literature*, December 2017](https://scholar.princeton.edu/sites/default/files/lboustan/files/research24_jel.pdf) -->
-```
 ## 10. Globalization and the Coming of the First World War
 
 #### Required
