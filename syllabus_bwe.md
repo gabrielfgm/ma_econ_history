@@ -176,7 +176,7 @@ https://www.jstor.org/stable/2123971)
 + [Accominotti, O., M. Flandreau and R. Rezzik, (2011), “The Spread of Empire: Clio and the Measurement of Colonial Borrowing Costs", The Economic History Review, vol. 64, pp. 385-407.](https://www.jstor.org/stable/41262429)
 + [Gardner, L. (2017): Colonialism or supersanctions: sovereignty and debt in West Africa, 1871-1914, in: *European Review of Economic History*, 21, 236-257.](https://doi.org/10.1093/ereh/hex001)
 
-## Additional
+#### Additional
 
 + [Accominotti et al. "Black man's burden, white man's welfare: control, devolution and development in the British Empire, 1880-1914", *European Review of Economic History*, Vol. 14, No. 1, 2010](https://academic.oup.com/ereh/article-lookup/doi/10.1017/S1361491609990025)
 + [Offer, Avner. “The British Empire, 1870-1914: A Waste of Money?” *The Economic History Review*, vol. 46, no. 2, 1993, pp. 215–238.](https://www.jstor.org/stable/2598015)
