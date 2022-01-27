@@ -16,8 +16,8 @@
 
 -   [Cheryl Schonhardt-Bailey, *From the Corn Laws to Free Trade:
     Interests, Ideas and Institutions in Historical Perspective*, MIT:
-    2006, Chapter
-    1.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=3338560&ppg=16)
+    2006,
+    Chapter 1.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=3338560&ppg=16)
 -   [Douglas Irwin, "Political Economy and Peel's Repeal of the Corn
     Laws", *Economics and Politics*, Vol. 1, No. 1,
     1989](https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/c/1993/files/2018/08/Irwin-Peel-2iwkiau.pdf)
@@ -28,8 +28,8 @@
 #### Additional
 
 -   [Henry Miller, "Popular Petitioning and the Corn Laws, 1833-46",
-    *English Historical Review*, Vol. CXXVII, No. 527,
-    2012.](https://www.jstor.org/stable/23272690)
+    *English Historical Review*, Vol. CXXVII,
+    No. 527, 2012.](https://www.jstor.org/stable/23272690)
 -   Timothy McKeown. 1989. "The Politics of Corn Law Repeal and Theories
     of Commercial Policy." *British Journal of Political Science* 19:
     353-80.
@@ -48,6 +48,9 @@
 -   [Sharp, Paul 2010. "1846 and All That: The Rise and Fall of British
     Wheat Protection in the Nineteenth Century," Agricultural History
     Review 58: 76-94.](https://www.jstor.org/stable/25684231)
+-   [O'Rourke, Kevin H. "The European Grain Invasion, 1870-1913." *The
+    Journal of Economic History*, vol. 57, no. 4, 1997,
+    pp. 775--801.](https://www.jstor.org/stable/2951160)
 
 #### Additional
 
@@ -60,9 +63,6 @@
 -   S. B. Saul, *The Myth of the Great Depression, 1873 - 1896*, Studies
     in Economic and Social History Series (London: MacMillan, 1969; 2nd
     revised edition, 1985), pp. 9 - 72.
--   [O'Rourke, Kevin H. "The European Grain Invasion, 1870-1913." *The
-    Journal of Economic History*, vol. 57, no. 4, 1997,
-    pp. 775--801.](https://www.jstor.org/stable/2951160)
 -   P.J. Perry, "Editors Introduction" in P.J. Perry (ed.) *British
     Agriculture, 1875-1914*, Methuen: 1973.
 -   [D. Landes, *The unbound Prometheus: technological change and
@@ -113,12 +113,12 @@
     708-740. doi:10.1017/S0022050712000344
 -   [Kevin O'Rourke and Jeffrey Williamson, *Globalization and History:
     The Evolution of a Nineteenth-Century Atlantic Economy*, MIT: 1996,
-    Chapters 2 &
-    3.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=3338827&ppg=18)
+    Chapters 2
+    & 3.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=3338827&ppg=18)
 -   [C. Knick Harley, "Ocean Freight Rates and Productivity, 1740-1913:
     The Primacy of Mechanical Invention Reaffirmed," *Journal of
-    Economic History*, Vol. 48, No. 4,
-    1988.](https://www.jstor.org/stable/2121620)
+    Economic History*, Vol. 48,
+    No. 4, 1988.](https://www.jstor.org/stable/2121620)
 -   [A. Benetrix et. al., "The Spread of Manufacturing to the Poor
     Periphery 1870-2007", *NBER Working Paper*, No. 18221,
     2012](https://www.nber.org/system/files/working_papers/w18221/w18221.pdf)
@@ -193,8 +193,8 @@
     Businessmen 1800-1950' *Economic History Review* (1986)
 -   M.J. Wiener, *English Culture and the Decline of the Industrial
     Spirit 1850-1980* (1981) chs. 1 - 4
--   P.L. Payne, *British Entrepreneurship in the Nineteenth Century*
-    (1974)
+-   P.L. Payne, *British Entrepreneurship in the Nineteenth
+    Century* (1974)
 -   A Godley, 'Entrepreneurship in Victorian Britain' in D. Landes, W.
     Baumol & J. Mokyr (eds), *The Invention of Enterprise* (2009).
 -   C. H. Feinstein, "Slowing Down and Falling Behind: Industrial
@@ -212,8 +212,8 @@
 #### Required
 
 -   [S. Pollard, 'Capital exports 1870-1914: Harmful or Beneficial?'
-    *Economic History Review,* Vol. 38, No. 4,
-    (1985)](https://www.jstor.org/stable/2597185)
+    *Economic History Review,* Vol. 38,
+    No. 4, (1985)](https://www.jstor.org/stable/2597185)
 -   [Chabot, B.R. and Kurz, C.J. (2010), "That's Where The Money Was:
     Foreign Bias and English Investment Abroad, 1866--1907"*. *The
     Economic Journal\*, 120:
@@ -231,13 +231,13 @@
 -   R.C. Michie, 'The Stock Exchange and the British economy 1870-1939'
     in J.J. van Helten & Y. Cassis (eds), *Capitalism in a Mature
     Economy* (1990)
--   M. Edelstein, *Overseas Investment in the Age of High Imperialism*
-    (1982)
+-   M. Edelstein, *Overseas Investment in the Age of High
+    Imperialism* (1982)
 -   Y. Cassis, *City Bankers 1890-1914* (1994)
 -   [Mira Wilkins, "The Free-Standing Company, 1870-1914: An Important
     Type of British Foreign Direct Investment," *Economic History
-    Review*, Vol. 41, No. 2,
-    1988.](https://www.jstor.org/stable/2596058)
+    Review*, Vol. 41,
+    No. 2, 1988.](https://www.jstor.org/stable/2596058)
 -   [Edelstein, M. (2004). Foreign investment, accumulation and Empire,
     1860--1914. In R. Floud & P. Johnson (Eds.), The Cambridge Economic
     History of Modern Britain (pp. 190-226). Cambridge: Cambridge
@@ -245,26 +245,30 @@
 -   [Marc Flandreau and Juan H. Flores, 'Bondholders versus
     Bond-sellers? Investment Banks and Conditionality Lending in the
     London Market for Foreign Government Debt, 1815 - 1913', *European
-    Review of Economic History*, 16:4 (November 2012), 356-
-    83.](https://academic.oup.com/ereh/article/16/4/356/463984)
+    Review of Economic History*, 16:4 (November 2012),
+    356- 83.](https://academic.oup.com/ereh/article/16/4/356/463984)
 -   [William N. Goetzmann, Andrey D. Ukhov, British Investment Overseas
     1870--1913: A Modern Portfolio Theory Approach, *Review of Finance*,
     Volume 10, Issue 2, 2006, Pages
     261--300](https://doi.org/10.1007/s10679-006-8278-2)
+-   [Flandreau, Marc, et al. "The End of Gatekeeping: Underwriters and
+    the Quality of Sovereign Bond Markets, 1815--2007." NBER
+    International Seminar on Macroeconomics, vol. 6, no. 1, 2009,
+    pp. 53--92.](https://www.jstor.org/stable/10.1086/648696)
 
 ## 7. Global financial integration
 
 #### Required
 
 -   [Bordo and Rockoff (1996) "The Gold Standard as a "Good Housekeeping
-    Seal of Approval"" The Journal of Economic
+    Seal of Approval"\" The Journal of Economic
     History](https://www.jstor.org/stable/2123971)
 -   [Bordo, M., and F. Kydland (1995), "The Gold Standard As a Rule: An
     Essay in Exploration." Explorations in Economic History, vol. 32,
     pp. 423-464.](https://www.sciencedirect.com/science/article/pii/S0014498385710194)
 -   [Obstfeld, M., and A. Taylor (2002), "Globalization and Capital
-    Markets", NBER Working Paper No
-    8846.](https://www.nber.org/system/files/working_papers/w8846/w8846.pdf)
+    Markets", NBER Working Paper
+    No 8846.](https://www.nber.org/system/files/working_papers/w8846/w8846.pdf)
 -   [Flandreau M., and F. Zumer (2004), *The Making of Global Finance,
     1880-1913*, OECD: Development
     Centre.](https://www.oecd-ilibrary.org/docserver/9789264015364-en.pdf?expires=1642680086&id=id&accname=oid008858&checksum=3B491BE7F7259024B9D115FA9E65EECD)
@@ -278,10 +282,6 @@
     information transmission, c. 1820-1870," *European Review of
     Economic History*, Vol. 5, 2001,
     pp. 1-28.](https://doi.org/10.1017/S1361491601000016)
--   [Flandreau, Marc, et al. "The End of Gatekeeping: Underwriters and
-    the Quality of Sovereign Bond Markets, 1815--2007." NBER
-    International Seminar on Macroeconomics, vol. 6, no. 1, 2009,
-    pp. 53--92.](https://www.jstor.org/stable/10.1086/648696)
 
 ## 8. Empire and capital market integration
 
@@ -324,8 +324,8 @@
 #### Required
 
 -   [Barry Eichengreen, Chapter 2 "The Gold Standard" *Globalizing
-    Capital: A History of the International Monetary System*, PUP:
-    2008.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=483542&ppg=14)
+    Capital: A History of the International Monetary System*,
+    PUP: 2008.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=483542&ppg=14)
 -   [Marc Flandreau, 'Central Bank Cooperation in Historical
     Perspective: a Sceptical View', *The Economic History Review*, 2nd
     ser., 50:4 (November 1997),
@@ -378,15 +378,15 @@
     1989](https://hdl.handle.net/2027/heb.03445)
 -   [Stephen broadberry & Peter Howlett, "The United Kingdom during
     World War I: business as usual?" in S. Broadberry and M. Harrison
-    (eds.), *The Economics of World War I*, CUP:
-    2005.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=241098&ppg=224)
+    (eds.), *The Economics of World War I*,
+    CUP: 2005.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=241098&ppg=224)
 -   W, Ashworth, *An Economic History of England 1870-1939* (1960) ch.12
 -   S. Pollard, *The Development of the British Economy
     1914-1980* (1970) ch. 2
 -   D.H. Aldcroft & H. Richardson (eds), *The British Economy
     1870-1939* (1969) Section B, ch. 6
--   A.S. Milward, *The Economic Effects of the World Wars on Britain*
-    (1970)
+-   A.S. Milward, *The Economic Effects of the World Wars on
+    Britain* (1970)
 -   B.W. Alford, *Depression and Recovery? British Economic Growth
     1918-1939* (1972)
 -   Rowe, David M. "The Tragedy of Liberalism: How Globalization Caused

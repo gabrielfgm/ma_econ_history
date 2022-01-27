@@ -39,13 +39,13 @@ https://www.jstor.org/stable/23272690)
 + [Charles Wilson, ‘Economy and Society in Late Victorian Britain’, Economic History Review, 2nd ser. 18 (1965), 183-97.]( https://doi.org/10.1111/j.1468-0289.1965.tb01668.x)
 + [Douglas Irwin, Maksym Chepeliev, "The Economic Consequences of Sir Robert Peel: A Quantitative Assessment of the Repeal of the Corn Laws", *NBER Working Papers*, No. w28142, 2020](https://www.nber.org/system/files/working_papers/w28142/w28142.pdf)
 + [Sharp, Paul 2010. “1846 and All That: The Rise and Fall of British Wheat Protection in the Nineteenth Century,” Agricultural History Review 58: 76-94.](https://www.jstor.org/stable/25684231)
++ [O'Rourke, Kevin H. “The European Grain Invasion, 1870-1913.” *The Journal of Economic History*, vol. 57, no. 4, 1997, pp. 775–801.](https://www.jstor.org/stable/2951160)
 
 #### Additional
 
 + [FLETCHER, T. W. (1961), THE GREAT DEPRESSION OF ENGLISH AGRICULTURE 1873–1896. The Economic History Review, 13: 417-432.](https://doi.org/10.1111/j.1468-0289.1961.tb02128.x)
 + [Gráda, Cormac Ó. “Farming High and Low, 1850-1914.” The Agricultural History Review, vol. 49, no. 2, 2001, pp. 210–218.](https://www.jstor.org/stable/40275727)
 + S. B. Saul, *The Myth of the Great Depression, 1873 - 1896*, Studies in Economic and Social History Series (London: MacMillan, 1969; 2nd revised edition, 1985), pp. 9 - 72.
-+ [O'Rourke, Kevin H. “The European Grain Invasion, 1870-1913.” *The Journal of Economic History*, vol. 57, no. 4, 1997, pp. 775–801.](https://www.jstor.org/stable/2951160)
 + P.J. Perry, "Editors Introduction" in P.J. Perry (ed.) *British Agriculture, 1875-1914*, Methuen: 1973.
 + [D. Landes, *The unbound Prometheus: technological change and industrial development in Western Europe from 1750 to the present*, CUP: 1969, Ch. 5 "Short Breath and Second Wind"](https://hdl.handle.net/2027/heb.01145)
 + [Turner, M. (2004). Agriculture, 1860–1914. In R. Floud & P. Johnson (Eds.), The Cambridge Economic History of Modern Britain (pp. 133-160). Cambridge: Cambridge University Press.](https://doi.org/10.1017/CHOL9780521820370.007)
@@ -129,6 +129,7 @@ https://www.jstor.org/stable/40836579 )
 + [Edelstein, M. (2004). Foreign investment, accumulation and Empire, 1860–1914. In R. Floud & P. Johnson (Eds.), The Cambridge Economic History of Modern Britain (pp. 190-226). Cambridge: Cambridge University Press.](https://doi.org/10.1017/CHOL9780521820370.009)
 + [Marc Flandreau and Juan H. Flores, ‘Bondholders versus Bond-sellers? Investment Banks and Conditionality Lending in the London Market for Foreign Government Debt, 1815 - 1913’, *European Review of Economic History*, 16:4 (November 2012), 356- 83.](https://academic.oup.com/ereh/article/16/4/356/463984)
 + [William N. Goetzmann, Andrey D. Ukhov, British Investment Overseas 1870–1913: A Modern Portfolio Theory Approach, *Review of Finance*, Volume 10, Issue 2, 2006, Pages 261–300](https://doi.org/10.1007/s10679-006-8278-2)
++ [Flandreau, Marc, et al. “The End of Gatekeeping: Underwriters and the Quality of Sovereign Bond Markets, 1815–2007.” NBER International Seminar on Macroeconomics, vol. 6, no. 1, 2009, pp. 53–92.](https://www.jstor.org/stable/10.1086/648696)
 
 ## 7. Global financial integration
 
@@ -144,7 +145,6 @@ https://www.jstor.org/stable/2123971)
 
 + [Christopher Hoag. “The Atlantic Telegraph Cable and Capital Market Information Flows.” The Journal of Economic History, vol. 66, no. 2, 2006, pp. 342–353.](https://www.jstor.org/stable/3874880)
 + [Yrjo Kaukiainen, "Shrinking the world: Improvements in the speed of information transmission, c. 1820-1870," *European Review of Economic History*, Vol. 5, 2001, pp. 1-28.](https://doi.org/10.1017/S1361491601000016)
-+ [Flandreau, Marc, et al. “The End of Gatekeeping: Underwriters and the Quality of Sovereign Bond Markets, 1815–2007.” NBER International Seminar on Macroeconomics, vol. 6, no. 1, 2009, pp. 53–92.](https://www.jstor.org/stable/10.1086/648696)
 
 ## 8. Empire and capital market integration
 
