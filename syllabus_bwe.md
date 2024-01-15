@@ -145,22 +145,6 @@ https://www.jstor.org/stable/40836579 )
 + Marichal, C., (1989). A Century of Debt Crises in Latin America. Princeton: Princeton University Press, chapters 3 and 4.
 + [Flandreau, Marc, et al. “The End of Gatekeeping: Underwriters and the Quality of Sovereign Bond Markets, 1815–2007.” NBER International Seminar on Macroeconomics, vol. 6, no. 1, 2009, pp. 53–92.](https://www.jstor.org/stable/10.1086/648696)
 
-
-<!-- ## 7. Global financial integration
-
-#### Required
-
-+ [Bordo and Rockoff (1996) "The Gold Standard as a “Good Housekeeping Seal of Approval”" The Journal of Economic History](
-https://www.jstor.org/stable/2123971)
-+ [Bordo, M., and F. Kydland (1995), "The Gold Standard As a Rule: An Essay in Exploration." Explorations in Economic History, vol. 32, pp. 423-464.](https://www.sciencedirect.com/science/article/pii/S0014498385710194)
-+ [Obstfeld, M., and A. Taylor (2002), “Globalization and Capital Markets”, NBER Working Paper No 8846.](https://www.nber.org/system/files/working_papers/w8846/w8846.pdf)
-+ [Flandreau M., and F. Zumer (2004), *The Making of Global Finance, 1880-1913*, OECD: Development Centre.](https://www.oecd-ilibrary.org/docserver/9789264015364-en.pdf?expires=1642680086&id=id&accname=oid008858&checksum=3B491BE7F7259024B9D115FA9E65EECD)
-
-#### Additional
-
-+ [Christopher Hoag. “The Atlantic Telegraph Cable and Capital Market Information Flows.” The Journal of Economic History, vol. 66, no. 2, 2006, pp. 342–353.](https://www.jstor.org/stable/3874880)
-+ [Yrjo Kaukiainen, "Shrinking the world: Improvements in the speed of information transmission, c. 1820-1870," *European Review of Economic History*, Vol. 5, 2001, pp. 1-28.](https://doi.org/10.1017/S1361491601000016) -->
-
 ## 8. Empire and capital market integration
 
 #### Required
