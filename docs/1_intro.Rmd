@@ -128,10 +128,32 @@ I'm really interested in understanding financial markets in history, how people 
 
 + Focus is on discussion not lecturing so it is the role of students to articulate the key ideas in the articles
 
+--
+
 ### Weekly 'discussants'
 
 + Each week I will ask a few of you to volunteer to start the discussion by telling us what the readings are trying to do, and by suggesting some interesting questions for class discussion.
 + This contribution should be very brief (10-15 minutes of class time!) and shared between several people.
+
+---
+
+# Mechanics: expectations about content
+
+.large[
++ The topic of this course falls squarely within 'economic history' 
++ Sub-field is split between departments (econ/history/geography/stand-alone departments)
++ Some of the articles we read look more like economics/political science (mathematical models, regression tables)
+]
+
+--
+
+.large[
+**My expectation is that you read quantitative work critically and try to understand the intuition.**
+
+I do not expect you to master this content, although I will try to provide some guidance on how to read and interpret regression results.
+
+**I do NOT expect the essays you submit to me to incorporate mathematical modelling or statistical analysis.** Although you can if you want to.
+]
 
 ---
 
