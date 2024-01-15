@@ -2,7 +2,7 @@
 title: Britain & the World Economy 1850-1914, Syllabus
 author: Dr. Gabriel Geisler Mesevage 
 institute: King's College London 
-date: January 2022
+date: January 2024
 geometry: margin=1in
 header-includes:
     - \usepackage{hyperref} 
@@ -110,14 +110,12 @@ https://www.jstor.org/stable/40836579 )
 + D. C. Coleman, “Gentlemen and Players,” Economic History Review 26 (1973): 92-116.
 + [M. W. Kirby (1992), "Institutional rigidities and economic decline: reflections on the British experience". *The Economic History Review*, 45: 637-660.]( https://www.jstor.org/stable/2597412 )
 
-## 6. The British export of capital and sovereign debt crises
+## 6. The British export of capital
 
 #### Required
 
 + [S. Pollard, ‘Capital exports 1870-1914: Harmful or Beneficial?’ *Economic History Review,* Vol. 38, No. 4, (1985)](https://www.jstor.org/stable/2597185)
 + [Chabot, B.R. and Kurz, C.J. (2010), "That’s Where The Money Was: Foreign Bias and English Investment Abroad, 1866–1907"*. *The Economic Journal*, 120: 1056-1079.](https://doi.org/10.1111/j.1468-0297.2009.02346.x)
-+ Marichal, C., (1989). A Century of Debt Crises in Latin America. Princeton: Princeton University Press, chapters 3 and 4.
-+ [Flandreau, M. and J. Flores (2009): Bonds and brands: foundations of sovereign debt markets, in: *Journal of Economic History*, 69, pp. 646-684.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9CB9400C2517D8183DC7C72390A5ABA8/S0022050709001089a.pdf/bonds-and-brands-foundations-of-sovereign-debt-markets-18201830.pdf) 
 
 #### Additional
 
@@ -127,11 +125,28 @@ https://www.jstor.org/stable/40836579 )
 + Y. Cassis, *City Bankers 1890-1914* (1994)
 + [Mira Wilkins, "The Free-Standing Company, 1870-1914: An Important Type of British Foreign Direct Investment," *Economic History Review*, Vol. 41, No. 2, 1988.](https://www.jstor.org/stable/2596058)
 + [Edelstein, M. (2004). Foreign investment, accumulation and Empire, 1860–1914. In R. Floud & P. Johnson (Eds.), The Cambridge Economic History of Modern Britain (pp. 190-226). Cambridge: Cambridge University Press.](https://doi.org/10.1017/CHOL9780521820370.009)
-+ [Marc Flandreau and Juan H. Flores, ‘Bondholders versus Bond-sellers? Investment Banks and Conditionality Lending in the London Market for Foreign Government Debt, 1815 - 1913’, *European Review of Economic History*, 16:4 (November 2012), 356- 83.](https://academic.oup.com/ereh/article/16/4/356/463984)
 + [William N. Goetzmann, Andrey D. Ukhov, British Investment Overseas 1870–1913: A Modern Portfolio Theory Approach, *Review of Finance*, Volume 10, Issue 2, 2006, Pages 261–300](https://doi.org/10.1007/s10679-006-8278-2)
+
+
+## 7. Sovereign debt markets
+
+#### Required
+
++ [Marc Flandreau, "Sovereign states, bondholders committees, and the London Stock Exchange in the nineteenth century (1827-68): new facts and old fictions", *Oxford Review of Economic Policy*, Vol. 29, No. 4, 2013](https://doi.org/10.1093/oxrep/grt031)
++ [Michael Tomz, *Reputation and International Cooperation: Sovereign Debt across Three Centuries* Princeton University Press, 2007. Ch 1 & Ch 6](https://doi.org/10.2307/j.ctt7sdm3)
++ [Eichengreen et al. *In Defense of Public Debt*, OUP 2021, Ch 5 "Caveat Emptor"](https://doi.org/10.1093/oso/9780197577899.003.0005)
+
+#### Additional
+
++ [Flandreau, M. and J. Flores (2009): Bonds and brands: foundations of sovereign debt markets, in: *Journal of Economic History*, 69, pp. 646-684.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9CB9400C2517D8183DC7C72390A5ABA8/S0022050709001089a.pdf/bonds-and-brands-foundations-of-sovereign-debt-markets-18201830.pdf) 
++ [Marc Flandreau and Juan H. Flores, ‘Bondholders versus Bond-sellers? Investment Banks and Conditionality Lending in the London Market for Foreign Government Debt, 1815 - 1913’, *European Review of Economic History*, 16:4 (November 2012), 356- 83.](https://academic.oup.com/ereh/article/16/4/356/463984)
++ [Juan Flores, "Competition in the Underwriting Markets of Sovereign Debt: The Baring Crisis Revisited", *Law and Contemporary Problems*, Vol. 73, No. 4, 2010](http://www.jstor.com/stable/25800673)
++ [Rui Esteves, "The bondholder, the sovereign and the banker: sovereign debt and bondholders' protection before 1914", *European Review of Economic History*, Vol. 17, No. 4, 2013.](https://academic.oup.com/ereh/article-lookup/doi/10.1093/ereh/het016)
++ Marichal, C., (1989). A Century of Debt Crises in Latin America. Princeton: Princeton University Press, chapters 3 and 4.
 + [Flandreau, Marc, et al. “The End of Gatekeeping: Underwriters and the Quality of Sovereign Bond Markets, 1815–2007.” NBER International Seminar on Macroeconomics, vol. 6, no. 1, 2009, pp. 53–92.](https://www.jstor.org/stable/10.1086/648696)
 
-## 7. Global financial integration
+
+<!-- ## 7. Global financial integration
 
 #### Required
 
@@ -144,7 +159,7 @@ https://www.jstor.org/stable/2123971)
 #### Additional
 
 + [Christopher Hoag. “The Atlantic Telegraph Cable and Capital Market Information Flows.” The Journal of Economic History, vol. 66, no. 2, 2006, pp. 342–353.](https://www.jstor.org/stable/3874880)
-+ [Yrjo Kaukiainen, "Shrinking the world: Improvements in the speed of information transmission, c. 1820-1870," *European Review of Economic History*, Vol. 5, 2001, pp. 1-28.](https://doi.org/10.1017/S1361491601000016)
++ [Yrjo Kaukiainen, "Shrinking the world: Improvements in the speed of information transmission, c. 1820-1870," *European Review of Economic History*, Vol. 5, 2001, pp. 1-28.](https://doi.org/10.1017/S1361491601000016) -->
 
 ## 8. Empire and capital market integration
 
@@ -162,6 +177,11 @@ https://www.jstor.org/stable/2123971)
 + Davis & Huttenback, *Mammon and the Pursuit of Empire*
 + Michael Edelstein, "Imperialism: cost and benefit," in Floud & McCloskey (eds) *The Economic History of Britain since 1700*, Vol. 2, 1994.
 + CAIN,  P.  J.,   and   HOPKINS,   A.  G.   (1993a):  *British  Imperialism:  Innovation and Expansion,  1688-1914*,  London.
++ [Bordo and Rockoff (1996) "The Gold Standard as a “Good Housekeeping Seal of Approval”" The Journal of Economic History](
+https://www.jstor.org/stable/2123971)
++ [Bordo, M., and F. Kydland (1995), "The Gold Standard As a Rule: An Essay in Exploration." Explorations in Economic History, vol. 32, pp. 423-464.](https://www.sciencedirect.com/science/article/pii/S0014498385710194)
++ [Obstfeld, M., and A. Taylor (2002), “Globalization and Capital Markets”, NBER Working Paper No 8846.](https://www.nber.org/system/files/working_papers/w8846/w8846.pdf)
++ [Flandreau M., and F. Zumer (2004), *The Making of Global Finance, 1880-1913*, OECD: Development Centre.](https://www.oecd-ilibrary.org/docserver/9789264015364-en.pdf?expires=1642680086&id=id&accname=oid008858&checksum=3B491BE7F7259024B9D115FA9E65EECD)
 
 ## 9. The functioning of the classic gold standard
 
