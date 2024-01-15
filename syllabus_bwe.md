@@ -25,6 +25,13 @@ header-includes:
 + [Douglas Irwin, "Political Economy and Peel's Repeal of the Corn Laws", *Economics and Politics*, Vol. 1, No. 1, 1989](https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/c/1993/files/2018/08/Irwin-Peel-2iwkiau.pdf)
 + [Anthony Howe, *Free Trade and Liberal England 1846–1946*, OUP: Oxford, 1998, Chapter 1](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198201465.001.0001/acprof-9780198201465-chapter-1)
 
+#### Questions
+
++ What explains the repeal of the corn laws?
++ Why does Schonhardt-Bailey describe Repeal as a puzzle?
++ What do you think the role and relative importance of interests, ideas and institutions were in repeal?
++ Why is manufacturing opposed to the Corn Laws? Why might manufacturing benefit from repeal?
+
 #### Additional
 
 + [Henry Miller, "Popular Petitioning and the Corn Laws, 1833-46", *English Historical Review*, Vol. CXXVII, No. 527, 2012.](
