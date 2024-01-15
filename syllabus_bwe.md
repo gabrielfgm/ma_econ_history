@@ -48,6 +48,12 @@ https://www.jstor.org/stable/23272690)
 + [Sharp, Paul 2010. “1846 and All That: The Rise and Fall of British Wheat Protection in the Nineteenth Century,” Agricultural History Review 58: 76-94.](https://www.jstor.org/stable/25684231)
 + [O'Rourke, Kevin H. “The European Grain Invasion, 1870-1913.” *The Journal of Economic History*, vol. 57, no. 4, 1997, pp. 775–801.](https://www.jstor.org/stable/2951160)
 
+#### Questions
+
++ What were the major domestic consequences of global trade integration?
++ Was the growth of global trade more a consequence of policy or technology?
++ Was there really a 'great depression' in the period 1873-1896?
+
 #### Additional
 
 + [FLETCHER, T. W. (1961), THE GREAT DEPRESSION OF ENGLISH AGRICULTURE 1873–1896. The Economic History Review, 13: 417-432.](https://doi.org/10.1111/j.1468-0289.1961.tb02128.x)
@@ -67,6 +73,10 @@ https://www.jstor.org/stable/23272690)
 + [Arthur Lewis, *Growth and Fluctuations 1870-1913*, George Allen & Unwin: London, 1978, Chapter 1 "Prospectus"](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=453741&ppg=16)
 + [G. Arrighi, *The Long Twentieth Century: Money, Power, and the Origins of Our Times*, Verso: 1996, Chapter 3, "The Third (British) Systemic Cycle of Accumulation"](https://hdl.handle.net/2027/heb.30939)
 
+#### Questions
+
++ Was the global commodities boom of the late 19th century good or bad for the global periphery?
++ Is it possible for countries to become wealthy without industrializing?
 
 #### Additional
 
@@ -87,6 +97,11 @@ https://www.jstor.org/stable/2121620)
 + [Elbaum, Bernard, and William Lazonick. “The Decline of the British Economy: An Institutional Perspective.” The Journal of Economic History, vol. 44, no. 2, 1984, pp. 567–583.](https://www.jstor.org/stable/2120731)
 + [Leunig, Timothy. “A British Industrial Success: Productivity in the Lancashire and New England Cotton Spinning Industries a Century Ago.” *The Economic History Review*, vol. 56, no. 1, 2003, pp. 90–117.](https://www.jstor.org/stable/3698755)
 + [D. McCloskey and Lars G. Sandberg, "From damnation to redemption: Judgments on the late victorian entrepreneur," *Explorations in Economic History*, Vol. 9, 1971–1972, Pages 89-108.](https://www.sciencedirect.com/science/article/abs/pii/0014498371900520?via%3Dihub)
+
+#### Questions
+
++ Did Britain's early industrialization yield some sort of 'first-mover disadvantage'?
++ Why didn't Britain adopt newer technological and organizational techniques in cotton-spinning? Is this evidence of 'irrationality'?
 
 #### Additional
 
@@ -124,6 +139,10 @@ https://www.jstor.org/stable/40836579 )
 + [S. Pollard, ‘Capital exports 1870-1914: Harmful or Beneficial?’ *Economic History Review,* Vol. 38, No. 4, (1985)](https://www.jstor.org/stable/2597185)
 + [Chabot, B.R. and Kurz, C.J. (2010), "That’s Where The Money Was: Foreign Bias and English Investment Abroad, 1866–1907"*. *The Economic Journal*, 120: 1056-1079.](https://doi.org/10.1111/j.1468-0297.2009.02346.x)
 
+#### Questions
+
++ Was the British domestic economy damaged by the export of capital?
+
 #### Additional
 
 + A.R. Hall (ed), *The Export of Capital from Britain 1870-1914* (1968) chs. 1 and 4
@@ -143,6 +162,11 @@ https://www.jstor.org/stable/40836579 )
 + [Michael Tomz, *Reputation and International Cooperation: Sovereign Debt across Three Centuries* Princeton University Press, 2007. Ch 1 & Ch 6](https://doi.org/10.2307/j.ctt7sdm3)
 + [Eichengreen et al. *In Defense of Public Debt*, OUP 2021, Ch 5 "Caveat Emptor"](https://doi.org/10.1093/oso/9780197577899.003.0005)
 
+#### Questions
+
++ What mechanisms existed in the 19th century to get sovereigns to repay their debts?
++ How important was the British empire/navy in international lending?
+
 #### Additional
 
 + [Flandreau, M. and J. Flores (2009): Bonds and brands: foundations of sovereign debt markets, in: *Journal of Economic History*, 69, pp. 646-684.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9CB9400C2517D8183DC7C72390A5ABA8/S0022050709001089a.pdf/bonds-and-brands-foundations-of-sovereign-debt-markets-18201830.pdf) 
@@ -159,6 +183,10 @@ https://www.jstor.org/stable/40836579 )
 + [Ferguson, N., and M. Schularick (2006), “The Empire Effect: The Determinants of Country Risk in the First Age of Globalization, 1880–1913.” Journal of Economic History, vol. 66, pp. 283-312.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/09D7C8C5A22F519A80522C8AB9527686/S002205070600012Xa.pdf/empire_effect_the_determinants_of_country_risk_in_the_first_age_of_globalization_18801913.pdf)
 + [Accominotti, O., M. Flandreau and R. Rezzik, (2011), “The Spread of Empire: Clio and the Measurement of Colonial Borrowing Costs", The Economic History Review, vol. 64, pp. 385-407.](https://www.jstor.org/stable/41262429)
 + [Gardner, L. (2017): Colonialism or supersanctions: sovereignty and debt in West Africa, 1871-1914, in: *European Review of Economic History*, 21, 236-257.](https://doi.org/10.1093/ereh/hex001)
+
+#### Questions
+
++ Why did colonies pay lower interest rates on their sovereign debt?
 
 #### Additional
 
@@ -178,11 +206,17 @@ https://www.jstor.org/stable/2123971)
 
 #### Required
 
++ [Charles Kindleberger, *The World in Depression, 1929-1939*, Ch. 14](https://keats.kcl.ac.uk/pluginfile.php/4676786/mod_resource/content/0/kindleberger_ch14.pdf)
 + [Barry Eichengreen, Chapter 2 "The Gold Standard" *Globalizing Capital: A History of the International Monetary System*, PUP: 2008.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=483542&ppg=14)
 + [Marc Flandreau, ‘Central Bank Cooperation in Historical Perspective: a Sceptical View’, *The Economic History Review*, 2nd ser., 50:4 (November 1997), 735-63.](
 https://www.jstor.org/stable/2599884)
 + [Flandreau (1996) "The French crime of 1873: An essay on the emergence of the international gold standard, 1870–1880" The Journal of Economic History](https://www.cambridge.org/core/product/identifier/S0022050700017502/type/journal_article)
 
+#### Questions
+
++ Would the bimetallic (silver/gold) standard have remained viable without the Franco-Prussian war?
++ Why was the late-19th century gold standard stable?
+ 
 #### Additional
 
 + Bordo, M. (1981), “The classical gold standard: some lessons for today”, Federal Reserve Bank of St. Louis Review, May 1981, pp. 2-17.
@@ -199,6 +233,10 @@ https://www.jstor.org/stable/2599884)
 + [Jamie Martin, "Globalizing the History of the First World War: Economic Approaches", *Historical Journal*, 2021](https://www.cambridge.org/core/product/identifier/S0018246X21000765/type/journal_article)
 + [Adam Tooze, Ted Fertik, "The World Economy and the Great War", *Geschichte und Gesellschaft*, Vol. 40, 2014](https://www.vr-elibrary.de/doi/10.13109/gege.2014.40.2.214)
 + [Thomas Hauner, Branko Milanovic and Suresh Naidu, "Inequality, Foreign Investment, and Imperialism Prior to World War I", Working Paper, February 2020](https://stonecenter.gc.cuny.edu/files/2017/11/milanovic-inequality-foreign-investment-and-imperialism-2020.pdf)
+
+#### Questions
+
++ In what ways can we consider the first world war as arrising out of 19th century economic globalization?
 
 #### Additional
 

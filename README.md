@@ -61,6 +61,14 @@
     Journal of Economic History*, vol. 57, no. 4, 1997,
     pp. 775--801.](https://www.jstor.org/stable/2951160)
 
+#### Questions
+
+-   What were the major domestic consequences of global trade
+    integration?
+-   Was the growth of global trade more a consequence of policy or
+    technology?
+-   Was there really a 'great depression' in the period 1873-1896?
+
 #### Additional
 
 -   [FLETCHER, T. W. (1961), THE GREAT DEPRESSION OF ENGLISH AGRICULTURE
@@ -103,6 +111,13 @@
     Origins of Our Times*, Verso: 1996, Chapter 3, "The Third (British)
     Systemic Cycle of
     Accumulation"](https://hdl.handle.net/2027/heb.30939)
+
+#### Questions
+
+-   Was the global commodities boom of the late 19th century good or bad
+    for the global periphery?
+-   Is it possible for countries to become wealthy without
+    industrializing?
 
 #### Additional
 
@@ -148,6 +163,13 @@
     Judgments on the late victorian entrepreneur," *Explorations in
     Economic History*, Vol. 9, 1971--1972, Pages
     89-108.](https://www.sciencedirect.com/science/article/abs/pii/0014498371900520?via%3Dihub)
+
+#### Questions
+
+-   Did Britain's early industrialization yield some sort of
+    'first-mover disadvantage'?
+-   Why didn't Britain adopt newer technological and organizational
+    techniques in cotton-spinning? Is this evidence of 'irrationality'?
 
 #### Additional
 
@@ -228,6 +250,10 @@
     Economic Journal\*, 120:
     1056-1079.](https://doi.org/10.1111/j.1468-0297.2009.02346.x)
 
+#### Questions
+
+-   Was the British domestic economy damaged by the export of capital?
+
 #### Additional
 
 -   A.R. Hall (ed), *The Export of Capital from Britain
@@ -264,6 +290,12 @@
     & Ch 6](https://doi.org/10.2307/j.ctt7sdm3)
 -   [Eichengreen et al. *In Defense of Public Debt*, OUP 2021, Ch 5
     "Caveat Emptor"](https://doi.org/10.1093/oso/9780197577899.003.0005)
+
+#### Questions
+
+-   What mechanisms existed in the 19th century to get sovereigns to
+    repay their debts?
+-   How important was the British empire/navy in international lending?
 
 #### Additional
 
@@ -305,6 +337,10 @@
     debt in West Africa, 1871-1914, in: *European Review of Economic
     History*, 21, 236-257.](https://doi.org/10.1093/ereh/hex001)
 
+#### Questions
+
+-   Why did colonies pay lower interest rates on their sovereign debt?
+
 #### Additional
 
 -   [Accominotti et al. "Black man's burden, white man's welfare:
@@ -341,6 +377,8 @@
 
 #### Required
 
+-   [Charles Kindleberger, *The World in Depression, 1929-1939*, Ch.
+    14](https://keats.kcl.ac.uk/pluginfile.php/4676786/mod_resource/content/0/kindleberger_ch14.pdf)
 -   [Barry Eichengreen, Chapter 2 "The Gold Standard" *Globalizing
     Capital: A History of the International Monetary System*, PUP:
     2008.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=483542&ppg=14)
@@ -352,6 +390,12 @@
     emergence of the international gold standard, 1870--1880" The
     Journal of Economic
     History](https://www.cambridge.org/core/product/identifier/S0022050700017502/type/journal_article)
+
+#### Questions
+
+-   Would the bimetallic (silver/gold) standard have remained viable
+    without the Franco-Prussian war?
+-   Why was the late-19th century gold standard stable?
 
 #### Additional
 
@@ -387,6 +431,11 @@
     Foreign Investment, and Imperialism Prior to World War I", Working
     Paper, February
     2020](https://stonecenter.gc.cuny.edu/files/2017/11/milanovic-inequality-foreign-investment-and-imperialism-2020.pdf)
+
+#### Questions
+
+-   In what ways can we consider the first world war as arrising out of
+    19th century economic globalization?
 
 #### Additional
 
