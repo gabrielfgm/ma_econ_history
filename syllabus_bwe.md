@@ -9,6 +9,12 @@ header-includes:
     - \hypersetup{colorlinks=true,linkbordercolor=blue,linkcolor=red,pdfborderstyle={/S/U/W 1}}
 ---
 
+## Admin
+
+The syllabus is mirrored onto a github page which you can access [here](https://github.com/gabrielfgm/ma_econ_history).
+
+I ask that **in advance of each class** you take a minute to repond to one or several of the questions posed for each week. Please write a **short(!)** response in the shared word document that is hosted [here](https://emckclac-my.sharepoint.com/:w:/g/personal/k1925864_kcl_ac_uk/ESev9cm2La5KnZaNzX5KH6ABYPhQmEA4BIInH1yi3s7xeg?e=vnlr4p). The response need not be more than a paragraph.
+
 ## 1. Britain in 1850 & Class Mechanics
 
 #### Some background to read if you can
