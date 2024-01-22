@@ -44,8 +44,8 @@ https://www.jstor.org/stable/23272690)
 #### Required
 
 + [Charles Wilson, ‘Economy and Society in Late Victorian Britain’, Economic History Review, 2nd ser. 18 (1965), 183-97.]( https://doi.org/10.1111/j.1468-0289.1965.tb01668.x)
-+ [Douglas Irwin, Maksym Chepeliev, "The Economic Consequences of Sir Robert Peel: A Quantitative Assessment of the Repeal of the Corn Laws", *NBER Working Papers*, No. w28142, 2020](https://www.nber.org/system/files/working_papers/w28142/w28142.pdf)
-+ [Sharp, Paul 2010. “1846 and All That: The Rise and Fall of British Wheat Protection in the Nineteenth Century,” Agricultural History Review 58: 76-94.](https://www.jstor.org/stable/25684231)
++ [Douglas Irwin, Maksym Chepeliev, "The Economic Consequences of Sir Robert Peel: A Quantitative Assessment of the Repeal of the Corn Laws", *The Economic Journal*, Vol. 131, 2021, pp. 33322-3337.](https://doi.org/10.1093/ej/ueab029)
++ [Sharp, Paul 2010. “1846 and All That: The Rise and Fall of British Wheat Protection in the Nineteenth Century,” Agricultural History Review 58: 76-94.](https://www.jstor.org/stable/25684231) If you don't have time to read everything this can be skipped.
 + [O'Rourke, Kevin H. “The European Grain Invasion, 1870-1913.” *The Journal of Economic History*, vol. 57, no. 4, 1997, pp. 775–801.](https://www.jstor.org/stable/2951160)
 
 #### Questions
