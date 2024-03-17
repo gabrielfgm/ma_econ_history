@@ -365,7 +365,7 @@ The response need not be more than a paragraph.
 -   [Cain, P. (1998). Was it Worth Having? the British Empire
     1850--1950. Revista De Historia Económica / Journal of Iberian and
     Latin American Economic History, 16(1),
-    351-376.](https://keats.kcl.ac.uk/mod/resource/view.php?id=3064713)
+    351-376.](https://github.com/gabrielfgm/ma_econ_history/blob/main/cain1998.pdf)
 -   Davis & Huttenback, *Mammon and the Pursuit of Empire*
 -   Michael Edelstein, "Imperialism: cost and benefit," in Floud &
     McCloskey (eds) *The Economic History of Britain since 1700*, Vol.

@@ -198,7 +198,7 @@ https://www.jstor.org/stable/40836579 )
 
 + [Accominotti et al. "Black man's burden, white man's welfare: control, devolution and development in the British Empire, 1880-1914", *European Review of Economic History*, Vol. 14, No. 1, 2010](https://academic.oup.com/ereh/article-lookup/doi/10.1017/S1361491609990025)
 + [Offer, Avner. “The British Empire, 1870-1914: A Waste of Money?” *The Economic History Review*, vol. 46, no. 2, 1993, pp. 215–238.](https://www.jstor.org/stable/2598015)
-+ [Cain, P. (1998). Was it Worth Having? the British Empire 1850–1950. Revista De Historia Económica / Journal of Iberian and Latin American Economic History, 16(1), 351-376.](https://keats.kcl.ac.uk/mod/resource/view.php?id=3064713)
++ [Cain, P. (1998). Was it Worth Having? the British Empire 1850–1950. Revista De Historia Económica / Journal of Iberian and Latin American Economic History, 16(1), 351-376.](https://github.com/gabrielfgm/ma_econ_history/blob/main/cain1998.pdf)
 + Davis & Huttenback, *Mammon and the Pursuit of Empire*
 + Michael Edelstein, "Imperialism: cost and benefit," in Floud & McCloskey (eds) *The Economic History of Britain since 1700*, Vol. 2, 1994.
 + CAIN,  P.  J.,   and   HOPKINS,   A.  G.   (1993a):  *British  Imperialism:  Innovation and Expansion,  1688-1914*,  London.
