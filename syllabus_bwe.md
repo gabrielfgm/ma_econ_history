@@ -230,7 +230,10 @@ https://www.jstor.org/stable/2599884)
 + Marc Flandreau, Juan Flores, Clemens Jobst, and David Koudour-Casteras, ‘Business Cycles, 1870 - 1914’, pp. 84-108. in Broadberry and O'Rourke (eds) *The Cambridge Economic History of Modern Europe*, Vol. 2.
 + [Redish, A. (1990). The Evolution of the Gold Standard in England. The Journal of Economic History, 50(4), 789-805.](https://doi:10.1017/S0022050700037827)
 
-## 10. Globalization and the Coming of the First World War
+
+## 10. TBD
+
+<!-- ## 10. Globalization and the Coming of the First World War
 
 #### Required
 
@@ -253,3 +256,4 @@ https://www.jstor.org/stable/2599884)
 + B.W. Alford, *Depression and Recovery? British Economic Growth 1918-1939* (1972)
 + Rowe, David M. “The Tragedy of Liberalism: How Globalization Caused the First World War.” *Security Studies* 14, no. 3 (2005): 407–47.
 
+ -->
