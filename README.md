@@ -255,6 +255,10 @@ The syllabus is mirrored onto a github page which you can access
     Foreign Bias and English Investment Abroad, 1866--1907"*. *The
     Economic Journal\*, 120:
     1056-1079.](https://doi.org/10.1111/j.1468-0297.2009.02346.x)
+-   [Michael A. Clemens and Jeffrey G. Williamson, "Wealth Bias in the
+    First Global Capital Market Boom, 1870-1913," *The Economic
+    Journal*, 114 (April),
+    204-227.](https://doi.org/10.1111/j.1468-0297.2004.00211.x)
 
 #### Questions
 
