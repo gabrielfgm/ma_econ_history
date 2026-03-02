@@ -1,0 +1,46 @@
+---
+title: "Reading Financial Sources"
+author: "Gabriel Mesevage"
+format:
+  revealjs:
+    slide-number: c/t
+    chalkboard:
+      buttons: true
+editor:
+  markdown:
+    wrap: sentence
+---
+
+## How to read a share price list {.smaller}
+
+![](figures/read_prices.png){width="100%"}
+
+::: {style="height: 300px; overflow-y: auto; padding-top: 10px;"}
+-   **Stock**, e.g. "Guatemala 6% Sterling": Guatemalan sovereign debt pays 6% interest in sterling on nominal value
+-   **Issue price**: when they created the loan what it sold for
+-   **Original issue**: nominal value of debt (what is owed)
+-   **Sinking fund**: is there a special fund for repayment?
+-   **Amount of loan unredeemed**: if paid back gradually how much left?
+-   **Par**: nominal value of stock i.e. how much will you get paid back per stock you own.
+-   **Prices of the month**: what has the stock been trading for? E.g. Guatemala is not being traded this month
+-   **Last Business Done**: last trade price. Guatemala 6% at 42 -- very low!
+-   **Dividends**: where and when you can collect the interest
+-   **How to compute bond yield**: $dividend/price = (0.06 \times 100)/42 = 6/42 = 0.143 = 14.3\%$
+:::
+
+## Framing Question
+
+> How did the Victorian investment portfolio change over the last quarter of the 19th century?
+
+### Things to think about
+
+> What are the limits of the source for studying British investment?
+
+<br>
+
+> Who is the source addressed to?
+> How does that constrain what it reports?
+
+<br>
+
+> What is the process by which investments appear on this list?
