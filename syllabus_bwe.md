@@ -211,7 +211,7 @@ https://www.jstor.org/stable/2123971)
 
 #### Required
 
-+ [Charles Kindleberger, *The World in Depression, 1929-1939*, Ch. 14](https://github.com/gabrielfgm/ma_econ_history/pdf_papers/kindleberger_ch14.pdf)
++ [Charles Kindleberger, *The World in Depression, 1929-1939*, Ch. 14](https://github.com/gabrielfgm/ma_econ_history/blob/main/pdf_papers/kindleberger_ch14.pdf)
 + [Barry Eichengreen, *Golden Fetters: The Gold Standard and the Great Depression, 1919-1939*, Ch. 1 Introduction, the section "How the Gold Standard Worked", and Ch. 2 "The Classical Gold Standard in Interwar Perspective"](https://doi.org/10.1093/0195101138.001.0001)
 + [Marc Flandreau, ‘Central Bank Cooperation in Historical Perspective: a Sceptical View’, *The Economic History Review*, 2nd ser., 50:4 (November 1997), 735-63.](
 https://www.jstor.org/stable/2599884)
@@ -232,10 +232,7 @@ https://www.jstor.org/stable/2599884)
 + Marc Flandreau, Juan Flores, Clemens Jobst, and David Koudour-Casteras, ‘Business Cycles, 1870 - 1914’, pp. 84-108. in Broadberry and O'Rourke (eds) *The Cambridge Economic History of Modern Europe*, Vol. 2.
 + [Redish, A. (1990). The Evolution of the Gold Standard in England. The Journal of Economic History, 50(4), 789-805.](https://doi:10.1017/S0022050700037827)
 
-
-## 10. TBD
-
- ## 10. Globalization and the Coming of the First World War
+## 10. Globalization and the Coming of the First World War
 
 #### Required
 

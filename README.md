@@ -388,7 +388,7 @@ The syllabus is mirrored onto a github page which you can access
 #### Required
 
 -   [Charles Kindleberger, *The World in Depression, 1929-1939*, Ch.
-    14](https://github.com/gabrielfgm/ma_econ_history/pdf_papers/kindleberger_ch14.pdf)
+    14](https://github.com/gabrielfgm/ma_econ_history/blob/main/pdf_papers/kindleberger_ch14.pdf)
 -   [Barry Eichengreen, *Golden Fetters: The Gold Standard and the Great
     Depression, 1919-1939*, Ch. 1 Introduction, the section "How the
     Gold Standard Worked", and Ch. 2 "The Classical Gold Standard in
@@ -431,9 +431,7 @@ The syllabus is mirrored onto a github page which you can access
     The Journal of Economic History, 50(4),
     789-805.](https://doi:10.1017/S0022050700037827)
 
-## 10. TBD
-
-\## 10. Globalization and the Coming of the First World War
+## 10. Globalization and the Coming of the First World War
 
 #### Required
 
