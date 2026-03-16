@@ -388,10 +388,11 @@ The syllabus is mirrored onto a github page which you can access
 #### Required
 
 -   [Charles Kindleberger, *The World in Depression, 1929-1939*, Ch.
-    14](https://keats.kcl.ac.uk/pluginfile.php/4676786/mod_resource/content/0/kindleberger_ch14.pdf)
--   [Barry Eichengreen, Chapter 2 "The Gold Standard" *Globalizing
-    Capital: A History of the International Monetary System*, PUP:
-    2008.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=483542&ppg=14)
+    14](https://github.com/gabrielfgm/ma_econ_history/pdf_papers/kindleberger_ch14.pdf)
+-   [Barry Eichengreen, *Golden Fetters: The Gold Standard and the Great
+    Depression, 1919-1939*, Ch. 1 Introduction, the section "How the
+    Gold Standard Worked", and Ch. 2 "The Classical Gold Standard in
+    Interwar Perspective"](https://doi.org/10.1093/0195101138.001.0001)
 -   [Marc Flandreau, 'Central Bank Cooperation in Historical
     Perspective: a Sceptical View', *The Economic History Review*, 2nd
     ser., 50:4 (November 1997),
@@ -409,6 +410,9 @@ The syllabus is mirrored onto a github page which you can access
 
 #### Additional
 
+-   [Barry Eichengreen, Chapter 2 "The Gold Standard" *Globalizing
+    Capital: A History of the International Monetary System*, PUP:
+    2008.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=483542&ppg=14)
 -   Bordo, M. (1981), "The classical gold standard: some lessons for
     today", Federal Reserve Bank of St. Louis Review, May 1981,
     pp. 2-17.
@@ -429,29 +433,44 @@ The syllabus is mirrored onto a github page which you can access
 
 ## 10. TBD
 
-```{=html}
-<!-- ## 10. Globalization and the Coming of the First World War
+\## 10. Globalization and the Coming of the First World War
 
 #### Required
 
-+ [Jamie Martin, "Globalizing the History of the First World War: Economic Approaches", *Historical Journal*, 2021](https://www.cambridge.org/core/product/identifier/S0018246X21000765/type/journal_article)
-+ [Adam Tooze, Ted Fertik, "The World Economy and the Great War", *Geschichte und Gesellschaft*, Vol. 40, 2014](https://www.vr-elibrary.de/doi/10.13109/gege.2014.40.2.214)
-+ [Thomas Hauner, Branko Milanovic and Suresh Naidu, "Inequality, Foreign Investment, and Imperialism Prior to World War I", Working Paper, February 2020](https://stonecenter.gc.cuny.edu/files/2017/11/milanovic-inequality-foreign-investment-and-imperialism-2020.pdf)
+-   [Jamie Martin, "Globalizing the History of the First World War:
+    Economic Approaches", *Historical Journal*,
+    2021](https://www.cambridge.org/core/product/identifier/S0018246X21000765/type/journal_article)
+-   [Adam Tooze, Ted Fertik, "The World Economy and the Great War",
+    *Geschichte und Gesellschaft*, Vol. 40,
+    2014](https://www.vr-elibrary.de/doi/10.13109/gege.2014.40.2.214)
+-   [Thomas Hauner, Branko Milanovic and Suresh Naidu, "Inequality,
+    Foreign Investment, and Imperialism Prior to World War I", Working
+    Paper, February
+    2020](https://stonecenter.gc.cuny.edu/files/2017/11/milanovic-inequality-foreign-investment-and-imperialism-2020.pdf)
 
 #### Questions
 
-+ In what ways can we consider the first world war as arrising out of 19th century economic globalization?
+-   In what ways can we consider the first world war as arising out of
+    19th century economic globalization?
 
 #### Additional
 
-+ [Avner Offer, Chapter 1 "Introduction: Economic and Social Interpretation of the First World War" *The First World War: an agrarian interpretation*, OUP: 1989](https://hdl.handle.net/2027/heb.03445)
-+ [Stephen broadberry & Peter Howlett, "The United Kingdom during World War I: business as usual?" in S. Broadberry and M. Harrison (eds.), *The Economics of World War I*, CUP: 2005.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=241098&ppg=224)
-+ W, Ashworth, *An Economic History of England 1870-1939* (1960) ch.12
-+ S. Pollard, *The Development of the British Economy 1914-1980* (1970) ch. 2
-+ D.H. Aldcroft & H. Richardson (eds), *The British Economy 1870-1939* (1969) Section B, ch. 6
-+ A.S. Milward, *The Economic Effects of the World Wars on Britain* (1970)
-+ B.W. Alford, *Depression and Recovery? British Economic Growth 1918-1939* (1972)
-+ Rowe, David M. “The Tragedy of Liberalism: How Globalization Caused the First World War.” *Security Studies* 14, no. 3 (2005): 407–47.
-
- -->
-```
+-   [Avner Offer, Chapter 1 "Introduction: Economic and Social
+    Interpretation of the First World War" *The First World War: an
+    agrarian interpretation*, OUP:
+    1989](https://hdl.handle.net/2027/heb.03445)
+-   [Stephen broadberry & Peter Howlett, "The United Kingdom during
+    World War I: business as usual?" in S. Broadberry and M. Harrison
+    (eds.), *The Economics of World War I*, CUP:
+    2005.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=241098&ppg=224)
+-   W, Ashworth, *An Economic History of England 1870-1939* (1960) ch.12
+-   S. Pollard, *The Development of the British Economy
+    1914-1980* (1970) ch. 2
+-   D.H. Aldcroft & H. Richardson (eds), *The British Economy
+    1870-1939* (1969) Section B, ch. 6
+-   A.S. Milward, *The Economic Effects of the World Wars on Britain*
+    (1970)
+-   B.W. Alford, *Depression and Recovery? British Economic Growth
+    1918-1939* (1972)
+-   Rowe, David M. "The Tragedy of Liberalism: How Globalization Caused
+    the First World War." *Security Studies* 14, no. 3 (2005): 407--47.

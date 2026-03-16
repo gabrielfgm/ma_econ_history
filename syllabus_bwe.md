@@ -211,8 +211,8 @@ https://www.jstor.org/stable/2123971)
 
 #### Required
 
-+ [Charles Kindleberger, *The World in Depression, 1929-1939*, Ch. 14](https://keats.kcl.ac.uk/pluginfile.php/4676786/mod_resource/content/0/kindleberger_ch14.pdf)
-+ [Barry Eichengreen, Chapter 2 "The Gold Standard" *Globalizing Capital: A History of the International Monetary System*, PUP: 2008.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=483542&ppg=14)
++ [Charles Kindleberger, *The World in Depression, 1929-1939*, Ch. 14](https://github.com/gabrielfgm/ma_econ_history/pdf_papers/kindleberger_ch14.pdf)
++ [Barry Eichengreen, *Golden Fetters: The Gold Standard and the Great Depression, 1919-1939*, Ch. 1 Introduction, the section "How the Gold Standard Worked", and Ch. 2 "The Classical Gold Standard in Interwar Perspective"](https://doi.org/10.1093/0195101138.001.0001)
 + [Marc Flandreau, ‘Central Bank Cooperation in Historical Perspective: a Sceptical View’, *The Economic History Review*, 2nd ser., 50:4 (November 1997), 735-63.](
 https://www.jstor.org/stable/2599884)
 + [Flandreau (1996) "The French crime of 1873: An essay on the emergence of the international gold standard, 1870–1880" The Journal of Economic History](https://www.cambridge.org/core/product/identifier/S0022050700017502/type/journal_article)
@@ -224,6 +224,7 @@ https://www.jstor.org/stable/2599884)
  
 #### Additional
 
++ [Barry Eichengreen, Chapter 2 "The Gold Standard" *Globalizing Capital: A History of the International Monetary System*, PUP: 2008.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=483542&ppg=14)
 + Bordo, M. (1981), “The classical gold standard: some lessons for today”, Federal Reserve Bank of St. Louis Review, May 1981, pp. 2-17.
 + Meissner (2005) "A new world order: explaining the international diffusion of the gold standard, 1870–1913" Journal of International Economics
 + Lopez-Cordova and Meissner (2003) "Exchange-Rate Regimes and International Trade: Evidence from the Classical Gold Standard Era" American Economic Review
@@ -234,7 +235,7 @@ https://www.jstor.org/stable/2599884)
 
 ## 10. TBD
 
-<!-- ## 10. Globalization and the Coming of the First World War
+ ## 10. Globalization and the Coming of the First World War
 
 #### Required
 
@@ -244,7 +245,7 @@ https://www.jstor.org/stable/2599884)
 
 #### Questions
 
-+ In what ways can we consider the first world war as arrising out of 19th century economic globalization?
++ In what ways can we consider the first world war as arising out of 19th century economic globalization?
 
 #### Additional
 
@@ -257,4 +258,4 @@ https://www.jstor.org/stable/2599884)
 + B.W. Alford, *Depression and Recovery? British Economic Growth 1918-1939* (1972)
 + Rowe, David M. “The Tragedy of Liberalism: How Globalization Caused the First World War.” *Security Studies* 14, no. 3 (2005): 407–47.
 
- -->
+ 
