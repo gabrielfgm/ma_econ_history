@@ -440,7 +440,7 @@ The syllabus is mirrored onto a github page which you can access
     2021](https://www.cambridge.org/core/product/identifier/S0018246X21000765/type/journal_article)
 -   [Adam Tooze, Ted Fertik, "The World Economy and the Great War",
     *Geschichte und Gesellschaft*, Vol. 40,
-    2014](https://www.vr-elibrary.de/doi/10.13109/gege.2014.40.2.214)
+    2014](https://www.jstor.org/stable/24368710)
 -   [Thomas Hauner, Branko Milanovic and Suresh Naidu, "Inequality,
     Foreign Investment, and Imperialism Prior to World War I", Working
     Paper, February
